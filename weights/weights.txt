@@ -1,0 +1,2 @@
+ae : new_16.ckpt
+diffusion : best.ckpt
